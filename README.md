@@ -21,8 +21,8 @@ It allows admins to:
 - Add, delete, and edit barber profiles
 - Add, delete, and edit customer profiles
 
-
-There will be active updates towards this project including updating the inquiry system, allow barbers to update their own profiles, and add more functions within the admin side.
+### Upcoming Updates
+There will be active updates to this project including updating the inquiry system, allowing barbers to update their profiles, and adding more functions within the admin side.
 
 
 
