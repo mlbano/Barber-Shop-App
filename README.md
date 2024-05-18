@@ -2,7 +2,7 @@
 
 This app is a Barber Shop Management System that services barbers and customers.
 
-**Tech Stack**: React Native, Expo, NodeJS, Express, MongoDB
+**💻 Tech Stack**: React Native, Expo, NodeJS, Express, MongoDB
 
 It allows customers to:
 
@@ -15,16 +15,13 @@ It allows barbers to:
 
 - Manage and view the time and date of appointments
 
-
 It allows admins to:
 
 - Add, delete, and edit barber profiles
 - Add, delete, and edit customer profiles
 
-### Upcoming Updates
+### ⏲️ Upcoming Updates
 There will be active updates to this project including updating the inquiry system, allowing barbers to update their profiles, and adding more functions within the admin side.
-
-
 
 FAQ
 
